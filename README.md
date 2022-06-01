@@ -42,8 +42,8 @@ Known issues:
 	Workaround: delete the plot and replot by update the formula again.
 
 Changelog:
-v0.1.0: Initial release: basic plots for S11, S21, Efficiency and Pattern
-v0.1.1: Add color setting for each curve in S11/S21/Efficiency plots
+1) v0.1.0: Initial release: basic plots for S11, S21, Efficiency and Pattern
+2) v0.1.1: Add color setting for each curve in S11/S21/Efficiency plots
 
 
 
