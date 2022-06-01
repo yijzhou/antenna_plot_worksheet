@@ -1,7 +1,7 @@
 # antenna_plot_worksheet
 Excel worksheet to plot antenna parameters
 
-ver: 0.1.0
+ver: 0.1.1
 
 Yijun Zhou
 yijun.zhou@microsoft.com
@@ -40,6 +40,10 @@ Known issues:
 2) Pattern plot (3D polar) has issues of colormap.
 3) Change subplot from 2 to 1 or vice versa will affect plot dimension.
 	Workaround: delete the plot and replot by update the formula again.
+
+Changelog:
+v0.1.0: Initial release: basic plots for S11, S21, Efficiency and Pattern
+v0.1.1: Add color setting for each curve in S11/S21/Efficiency plots
 
 
 
